@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Alexander Vaganov</h1>
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" width=400>
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" width=390>
 
 ```c++
 #include <iostream>
