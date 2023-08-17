@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Alexander Vaganov</h1>
 
-<!--
-**VaganovAlexander/VaganovAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" width=400>
 
-Here are some ideas to get you started:
+```c++
+#include <iostream>
+#include <vector>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+namespace Done {
+std::vector<std::string> done = {""};
+}
+
+namespace ToDo {
+std::vector<std::string> to_do = {
+    "vector", "deque", "list",
+    "sort(which uses more than just random-access iterator)", "set"};
+}
+```
+
+<h2>I'm currently working on my version of STL containers and algorithms</h2>
+
+<div>
+  <h2>Languages that I know:</h2>
+  <ul>
+    <li>C++</li>
+    <li>Python</li>
+    <li>LaTeX</li>
+  </ul>
+  <h2>Tools that I use:</h2>
+  <ul>
+    <li>CMake</li>
+    <li>GTest</li>
+    <li>Docker</li>
+    <li>Bash-script</li>
+    <li>Linux</li>
+  </ul>
+</div>
