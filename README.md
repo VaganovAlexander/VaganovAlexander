@@ -12,8 +12,9 @@ std::vector<std::string> done = {""};
 
 namespace ToDo {
 std::vector<std::string> to_do = {
-    "vector", "deque", "list",
-    "sort(which uses more than just random-access iterator)", "set"};
+  "vector", "deque", "list",
+  "sort(which uses more than just random-access iterator)",
+  "set"};
 }
 ```
 
