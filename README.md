@@ -6,7 +6,7 @@
 #include <iostream>
 
 int main() {
-  std::cout << "You can see example projects in public repositories\n";
+  std::cout << "See example projects in public repositories\n";
   std::cout << "TODO: add OOP support to the compiler\n";
   return 0;
 }
